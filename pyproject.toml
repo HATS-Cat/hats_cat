@@ -18,6 +18,8 @@ jupyterlab = "^3.3.1"
 seaborn = "^0.11.2"
 flake8 = "^4.0.1"
 black = {version = "^22.3.0", allow-prereleases = true}
+pydot = "^1.4.2"
+keras-visualizer = "^2.4"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
